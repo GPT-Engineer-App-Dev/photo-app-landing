@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Home, Camera, Download, Info } from "lucide-react";
+import { Home, Camera, Download } from "lucide-react";
 
 const Index = () => {
   return (
